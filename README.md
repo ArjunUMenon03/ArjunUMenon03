@@ -32,9 +32,9 @@ Set up and configured Snort for real-time intrusion detection with custom rules 
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/arjun-u-menon-61b096257)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arjun-u-menon-61b096257/)  
 - 🧠 [TryHackMe](https://tryhackme.com/p/unniarjun312003)  
-- 📧 Email: unniarjun54@gmail.com *(replace this with your real one)*
+- 📧 Email: unniarjun54@gmail.com 
 
 ---
 
