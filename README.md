@@ -1,4 +1,4 @@
-# 👨‍💻 Arjun U Menon
+#  Arjun U Menon
 
 Welcome to my GitHub! I’m a self-taught developer passionate about cybersecurity and ethical hacking.  
 I actively explore and strengthen my skills through platforms like **TryHackMe**, hands-on projects, and real-world internships.  
